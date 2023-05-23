@@ -5,7 +5,7 @@ import random
 TELA_LARGURA = 500
 TELA_ALTURA = 800
 
-IMAGEM_CANO = pygame.transform.scale2x(pygame.image.load(os.path.join(r'/home/bassani/Documentos/python/FlappyBird/imgs/ pipe.png')))
+IMAGEM_CANO = pygame.transform.scale2x(pygame.image.load(os.path.join(r'/home/bassani/Documentos/python/FlappyBird/imgs/pipe.png')))
 IMAGEM_CHAO = pygame.transform.scale2x(pygame.image.load(os.path.join(r'/home/bassani/Documentos/python/FlappyBird/imgs/base.png')))
 IMAGEM_BACKGROUND = pygame.transform.scale2x(pygame.image.load(os.path.join(r'/home/bassani/Documentos/python/FlappyBird/imgs/bg.png')))
 IMAGENS_PASSARO =[
